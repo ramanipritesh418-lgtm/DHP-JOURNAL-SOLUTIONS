@@ -1,0 +1,7 @@
+DoctorID,DoctorName,Specialization,Patients,Fees
+1,Dr. Amit,Cardiology,25,800.0
+2,Dr. Neha,Neurology,30,1000.0
+3,Dr. Raj,Cardiology,20,900.0
+4,Dr. Priya,Dermatology,15,500.0
+5,Dr. Kiran,Cardiology,35,1200.0
+6,Dr. Meera,Orthopedic,22,700.0
