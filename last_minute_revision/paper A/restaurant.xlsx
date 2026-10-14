@@ -1,0 +1,7 @@
+OrderID,Customer,Dish,Quantity,BillAmount
+1,Amit,Pizza,2,500.0
+2,Neha,Burger,4,600.0
+3,Raj,Pasta,3,450.0
+4,Kiran,Sandwich,5,750.0
+5,Mehul,Dosa,2,200.0
+6,Ravi,Pizza,4,1000.0
